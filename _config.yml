@@ -1,0 +1,14 @@
+layout_spectrum: 0.6100461829919368
+typography_spectrum: 0.9460823389235884
+color:
+  brandStrength: 0.9079986000433564
+  lightness: 0.3109910823404789
+  saturation: 0.38832170772366226
+  rhythmicContrast: 0.5118049830198288
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: fotodesign
